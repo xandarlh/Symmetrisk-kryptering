@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\SymmertriskKryptering\SymmertriskKryptering\bin\Debug\SymmertriskKryptering.exe.config
+C:\Users\alex303a\source\repos\SymmertriskKryptering\SymmertriskKryptering\bin\Debug\SymmertriskKryptering.exe
+C:\Users\alex303a\source\repos\SymmertriskKryptering\SymmertriskKryptering\bin\Debug\SymmertriskKryptering.pdb
+C:\Users\alex303a\source\repos\SymmertriskKryptering\SymmertriskKryptering\obj\Debug\SymmertriskKryptering.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\SymmertriskKryptering\SymmertriskKryptering\obj\Debug\SymmertriskKryptering.exe
+C:\Users\alex303a\source\repos\SymmertriskKryptering\SymmertriskKryptering\obj\Debug\SymmertriskKryptering.pdb
